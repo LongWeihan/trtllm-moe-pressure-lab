@@ -1,5 +1,10 @@
 # TRT-LLM MoE Pressure Lab
 
+[![NVIDIA TensorRT-LLM](https://img.shields.io/badge/NVIDIA-TensorRT--LLM-76B900?logo=nvidia&logoColor=white)](https://github.com/NVIDIA/TensorRT-LLM)
+[![MoE Inference](https://img.shields.io/badge/MoE-Inference-0B7285)](#overview)
+[![Runtime Scheduling](https://img.shields.io/badge/Runtime-Scheduling-495057)](#core-design)
+[![CUDA GPU](https://img.shields.io/badge/CUDA-GPU%20Inference-76B900?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
+
 Pressure-aware admission, chunking, and runtime scheduling ablations for TensorRT-LLM MoE inference.
 
 ## Overview
